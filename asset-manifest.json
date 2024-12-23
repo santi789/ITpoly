@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/santi789/ITpoly.git/static/css/main.49faa5e3.css",
+    "main.js": "/santi789/ITpoly.git/static/js/main.70aab897.js",
+    "index.html": "/santi789/ITpoly.git/index.html",
+    "main.49faa5e3.css.map": "/santi789/ITpoly.git/static/css/main.49faa5e3.css.map",
+    "main.70aab897.js.map": "/santi789/ITpoly.git/static/js/main.70aab897.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49faa5e3.css",
+    "static/js/main.70aab897.js"
+  ]
+}

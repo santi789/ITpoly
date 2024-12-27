@@ -2,9 +2,9 @@ import React from 'react';
 
 const Header = () => {
   return (
-    <header className="bg-primary text-white text-center py-4">
-      <h1>Welcome to IT Department</h1>
-      <p>Learn and grow with us at Lanna Polytechnic Technology College</p>
+    <header className="header">
+      <h1>สาขาเทคโนโลยีสารสนเทศ</h1>
+      <p>วิทยาลัยเทคโนโลยีโปลิเทคนิคลานนา เชียงใหม่</p>
     </header>
   );
 };
